@@ -11,7 +11,7 @@ This guide is intended to walk you through (roughly) the process of commissionin
 - [Timelines] Link coming soon...
 - [AFSC Info] Link coming soon...
 - [Board Info] Link coming soon...
-- [AFOQT](https://joshua8978.github.io/resources/AFOQT)
+- [AFOQT](https://joshua8978.github.io/AirForceCommissioningGuide/resources/AFOQT)
 - [Packing List](https://otspackinglist.com)
 
 ## Some Background
@@ -27,7 +27,7 @@ And thats about it. The majority of this guide will walk you through documents, 
 ### Military Applicants
 #### School
 #### AFOQT
-See [here](https://joshua8978.github.io/resources/AFOQT) for a breakdown of the AFOQT and studying tips. For military applicants, you may take the AFOQT on many military installations. Contact your local Education Office for scheduling and dates. I got lucky and my test center was on my local base, but other bases might not have the option to test locally. Also, the test was online and the scores were loaded within a week. Timelines may vary.
+See [here](https://joshua8978.github.io/AirForceCommissioningGuide/resources/AFOQT) for a breakdown of the AFOQT and studying tips. For military applicants, you may take the AFOQT on many military installations. Contact your local Education Office for scheduling and dates. I got lucky and my test center was on my local base, but other bases might not have the option to test locally. Also, the test was online and the scores were loaded within a week. Timelines may vary.
 #### CC Interview
 #### Letter of Recommendations
 As it currently stands, you need two [LORs][id2]. No more, no less. The first is a Personal LOR. It is meant to come from someone who knows you personally, and can speak to your character. It does not need to necessarily come from someone who is in the miltary, and does not need to be in MFR format. 
@@ -38,7 +38,7 @@ Please note that the process may differ from Unit to Unit, especially the timeli
 ### Civillian Applicants
 #### School
 #### AFOQT
-See [here](https://joshua8978.github.io/resources/AFOQT) for a breakdown of the AFOQT and studying tips.
+See [here](https://joshua8978.github.io/AirForceCommissioningGuide/resources/AFOQT) for a breakdown of the AFOQT and studying tips.
 #### Interview
 #### Letter of Recommendations
 ### Other Avenues
