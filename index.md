@@ -23,5 +23,11 @@ And thats about it. The majority of this guide will walk you through documents, 
 
 ## Getting Started
 ### Military Applicants
+#### School
+#### AFOQT
+#### CC Interview
+#### Letter of Recommendations
+As it currently stands, you need two [LORs][id2]. No more, no less. The first is a Personal LOR. It is meant to come from someone who knows you personally, and can speak to your character. It does not need to necessarily come from someone who is in the miltary, and does not need to be in MFR format. 
+The second LOR is the professional MFR. This needs to come from your Group CC, and be endorsed by your Wing CC. In my case, I wrote the LOR, my Group CC made small edits when they signed it. For my Wing, this was the very last step for my package. Because the Wing CC needs to rack and stack everyone's package for that board, the package needs to be basically complete before he sees it. So my Group CC signed my LOR, and sent it up to the Wing for the rack and stack. THIS PART OF THE PROCESS HAD DEADLINES WITHIN THE SQUADRON, GROUP, AND WING. 
 ### Civillian Applicants
 ### Other Avenues
