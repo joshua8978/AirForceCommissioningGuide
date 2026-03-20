@@ -8,7 +8,7 @@ The AFOQT is scored on a percentile based test, from 1 to 99, compared to a norm
 |  Any                |  15        |  10            |  NO MIN |  NO MIN |  NO MIN |
 |  Pilot              |  15        |  10            |  25     |  10     |  NO MIN |
 |  CSO                |  15        |  10            |  10     |  25     |  NO MIN |
-|  ABM                |  15        |  10            |  NO MIN |  NO MIN |  NO MIN |
+|  ABM                |  15        |  10            |  NO MIN |  NO MIN |  25     |
 
 # Components
 ## Verbal Analogies
@@ -30,11 +30,13 @@ The AFOQT is scored on a percentile based test, from 1 to 99, compared to a norm
 - Table Reading
 - Instrument Comprehension
 - Aviation Information
+
 ## COMBAT SYSTEMS OFFICER / NAVIGATOR
 - Word Knowledge
 - Math Knowledge
 - Table Reading
 - Block Counting
+
 ## AIR BATTLE MANAGER
 - Verbal Analogies
 - Math Knowledge
@@ -42,13 +44,16 @@ The AFOQT is scored on a percentile based test, from 1 to 99, compared to a norm
 - Instrument Comprehension
 - Block Counting
 - Aviation Information
+
 ## VERBAL
 - Verbal Analogies
 - Word Knowledge
 - Reading Comprehension
+
 ## QUANTITATIVE
 - Arithmetic Reasoning
 - Math Knowledge
+
 ## ACADEMIC APTITUDE
 - Verbal Analogies
 - Arithmetic Reasoning
