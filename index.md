@@ -3,10 +3,11 @@
 
 
 # Commissioning in the Air Force
-This guide is intended to walk you through (roughly) the process of commissioning in the United States Air Force through Officer Training School (OTS). There are many routes to commissioning, and OTS is one of the least sure ways to get selected. I recommend you fully explore [all of your options] (Link coming soon...) to commission, as many others (such as the Academy, ROTC etc) provide you with a much better chance of getting picked up. If OTS is the route you want/have to go, please continue reading.
+This guide is intended to walk you through (roughly) the process of commissioning in the United States Air Force through Officer Training School (OTS). There are many routes to commissioning, and OTS is one of the least sure ways to get selected. I recommend you fully explore [all of your options](https://joshua8978.github.io/AirForceCommissioningGuide/resources/CommissioningPaths) to commission, as many others (such as the Academy, ROTC etc) provide you with a much better chance of getting picked up. If OTS is the route you want/have to go, please continue reading.
 
 ## Resources
 - [FAQ](https://joshua8978.github.io/AirForceCommissioningGuide/about/FAQ)
+- [Commissioning Paths](https://joshua8978.github.io/AirForceCommissioningGuide/resources/CommissioningPaths)
 - [Board Schedules] Link coming soon...
 - [Timelines] Link coming soon...
 - [AFSC Info](https://joshua8978.github.io/AirForceCommissioningGuide/resources/AFSC_Information)
